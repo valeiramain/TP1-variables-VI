@@ -58,3 +58,7 @@ Este trabajo práctico consiste en una serie de ejercicios básicos de JavaScrip
 9. **Vocales en una frase**  
    Escribe un programa que pida una frase y escriba las vocales que aparecen.  
    **Nota:** Tener en cuenta las funciones `length`,
+
+
+### ¿Cómo probar los ejercicios? 📋
+Para probar los ejercicios podes reemplazar cada archivo de js en index.html para ver como funciona cada punto.
